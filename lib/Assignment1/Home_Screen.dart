@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutterprojects/chat_design.dart';
+import 'package:flutterprojects/Assignment1/chat_design.dart';
 
 class HomeScreen extends StatelessWidget {
   @override
